@@ -1,0 +1,7 @@
+syntax = "proto3";
+package com.gl.rpc.msg;
+option java_outer_classname="RpcMsgProto";
+
+message RpcMsg {
+
+}
